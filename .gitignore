@@ -106,3 +106,6 @@ venv.bak/
 # PyCharm config files
 *.xml
 *.idea
+
+# Ignore pdfs
+*.pdf
