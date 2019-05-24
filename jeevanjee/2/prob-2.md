@@ -1,3 +1,7 @@
+### Problem
+Prove that $L^2([-a, a])$ is closed under addition. Use the triangle inequality, as well as the following equality, valid for $\lambda \in \mathbb{R}$: $0 \leq \int_{-a}^a (\vert f \vert + \lambda \vert g\vert)^2 dx$
+
+### Solution
 Given $f,g\ \in L^2\left[-a,a\right]$, we need to show that the addition of $f$ and $g$ also is in $L^2\left[-a,a\right]$. 
 Specifically, we must show $h(x) = (f+g)(x)\ \in L^2\left[-a,a\right]$.
 
