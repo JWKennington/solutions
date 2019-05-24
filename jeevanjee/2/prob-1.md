@@ -1,5 +1,5 @@
 
-### Problem
+#### Problem
 For the below, determine if it is defined on all vector spaces, just those with non-degenerate Hermitian forms, or just those with an inner product.
 
 1. Unit vector $\mathbf{\hat{x}}$ for any $\mathbf{x}\in V$
@@ -13,7 +13,7 @@ For the below, determine if it is defined on all vector spaces, just those with 
 9. Dual space
 10. Metric dual
 
-### Solution
+#### Solution
 For each of the below, $V$ means all vector spaces, $H$ means only those with non-degenerate Hermitian forms, 
 and $P$ means only those with inner products:
 

@@ -1,9 +1,9 @@
-### Problem
+#### Problem
 Show that "angular momentum generates rotations" by using the below to compute the components of $[L_z]_{\{x, y, z\}}$
 $$e^{-i\phi L_z} \equiv \sum\limits_{n=0}^{\infty}\frac{1}{n!}(-i\phi L_z)^n$$
 Conclude that the matrix represents a rotation.
 
-### Solution
+#### Solution
 To make this infinite sum more compact, begin by computing some of the first powers of $L_z$. You'll find that $L_z^3 = L_z$ and also note that $(iL_z)^5 = iL_z$. Let $A = e^{-I\phi L_z}$. Expand $A$ using the given formula for matrix exponentiation:
 $$A = e^{-I\phi L_z} = \sum\limits_{n=0}^{\infty} \frac{1}{n!} \phi^n (-iL_z)^n$$
 The right side of the previous expression may be split into two pieces, a sum of even powers of $iL_z$, $A_{even}$ and a sum of the odd powers, $A_{odd}$.
